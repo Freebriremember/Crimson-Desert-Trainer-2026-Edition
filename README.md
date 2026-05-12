@@ -68,3 +68,5 @@ Crimson-Desert-Trainer-v.3.1.4-2026-Edition is released under the permissive MIT
 You are free to use, modify, and distribute this project with proper attribution.
 
 Read the full MIT License [here](LICENSE).
+
+
